@@ -1,0 +1,12 @@
+git clone https://github.com/sreeraj03/sample.git
+
+git and github
+
+alternatives : AWS,bitbucket,gitlab
+
+
+git add.>>>add the file to the staging alternatives (file is being tracked by git)
+
+git comit -m "message">>> to comit the changes in the tracked file
+
+git push origin main >>>> pushing the file to the main branch in github respository
